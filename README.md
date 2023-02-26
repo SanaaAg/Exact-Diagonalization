@@ -1,3 +1,3 @@
-# ED_Unitary_dynamics_numerics_1D_and_2D_array_interacting_driven_atoms
+# ED_dynamics_numerics_1Darray_interacting_driven_atoms
  
-Numerically solves the equations of motion exactly using the exact diagonalization approach (ED) to dynamically evolve a driven 2D array of 2 level atoms interacting via dipolar interactions, which amounts to an inhomogeneous and anisotropic XY model
+Numerically solves the Lindblad master equation exactly using the exact diagonalization approach (ED) to dynamically evolve a driven 1D array of 4 level atoms interacting via dipolar interactions with correlated dissipation. Calculates Toth's spin squeezing parameter and logarithmic negativity, which are witnesses of bi-partitite entanglement.
